@@ -12,6 +12,12 @@ The password reset flow application is developed using the MERN stack (MongoDB, 
 **-** Reset password
   
 **-** Email notifications for password reset
+
+## Deployed URL
+
+**Frontend**: https://anan-password-reset-app.netlify.app/
+
+**Backend**: https://password-reset-backend-7jmn.onrender.com
   
 ## Technologies Used
 
@@ -19,9 +25,5 @@ The password reset flow application is developed using the MERN stack (MongoDB, 
 
 **Backend**: Node.js, Express.js, MongoDB (Mongoose)
 
-## Deployed URL
 
-**Frontend**: https://anan-password-reset-app.netlify.app/
-
-**Backend**: https://password-reset-backend-7jmn.onrender.com
 
