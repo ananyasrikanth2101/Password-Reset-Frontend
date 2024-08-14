@@ -1,8 +1,27 @@
-# React + Vite
+# Password Reset Application
+The password reset flow application is developed using the MERN stack (MongoDB, Express.js, React, Node.js) and features a responsive design with Bootstrap. It provides functionalities for user registration, login, password recovery, and password resetting. Password reset emails, including secure links, are sent to users through Nodemailer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
 
-Currently, two official plugins are available:
+**-** User registration
+  
+**-** User login
+  
+**-** Forgot password
+  
+**-** Reset password
+  
+**-** Email notifications for password reset
+  
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Frontend**:React, Bootstrap
+
+**Backend**: Node.js, Express.js, MongoDB (Mongoose)
+
+## Deployed URL
+
+**Frontend**: https://anan-password-reset-app.netlify.app/
+
+**Backend**: https://password-reset-backend-7jmn.onrender.com
+
